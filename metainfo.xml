@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="944F7C23-DF87-47BB-8603-FF6238E7CE5D" version="0" availableOffline="1">
+<presentation guid="B1AD2602-852D-4FFA-9D31-B8F6C294963F" version="0" availableOffline="1">
 	<info>
 		<title>test</title>
 		<description/>
 	</info>
-	<files index="id10" thumbnail="id28" totalSize="124027853">
+	<files index="id10" thumbnail="id28" totalSize="9514498">
 		<file id="id0">data/thmb1.png</file>
 		<file id="id1">data/video1.mp4</file>
 		<file id="id2">data/slide1.js</file>
